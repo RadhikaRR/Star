@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>EGG DROP SOUP</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/eggdropsoup.png</URL>
+			<LINK>recipes/eggdropsoup.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>SWEET SOUR CHICKEN</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/sweetsourchicken.png</URL>
+			<LINK>recipes/sweetsourchicken.xml</LINK>
+		</RECIPE>
+		
+	</RECIPES>
+</EBOOK>

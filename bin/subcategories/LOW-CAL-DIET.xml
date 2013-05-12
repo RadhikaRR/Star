@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>CHICKEN SALAD</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/chickensalad.png</URL>
+			<LINK>recipes/chickensalad.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>DIET UPMA</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/dietupma.png</URL>
+			<LINK>recipes/dietupma.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>

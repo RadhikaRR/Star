@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>VADA SAMBAR</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/vadasambar.png</URL>
+			<LINK>recipes/wada-sambar.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>

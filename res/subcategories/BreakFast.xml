@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>BATATA/Kanda Imali /POHA</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/poha.png</URL>
+			<LINK>recipes/Poha.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>VADA-SAMBAR</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/vadasambar.png</URL>
+			<LINK>recipes/wada-sambar.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>DAHI-VADA</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/dahivada.png</URL>
+			<LINK>recipes/Dahi-wada.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>

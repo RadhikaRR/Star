@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<COOKINGTIPS>
+		<COOKINGTIP>
+			<TITLE>cookiptip1</TITLE>
+			<DESC>cookiptip1 description cookiptip1 description ! @ # $ % ^ ( ) * - + =  cookiptip1 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip2</TITLE>
+			<DESC>cookiptip2 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip3</TITLE>
+			<DESC>cookiptip3 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip4</TITLE>
+			<DESC>cookiptip4 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip5</TITLE>
+			<DESC>cookiptip5 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip6</TITLE>
+			<DESC>cookiptip6 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip7</TITLE>
+			<DESC>cookiptip7 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip8</TITLE>
+			<DESC>cookiptip8 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip9</TITLE>
+			<DESC>cookiptip9 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip10</TITLE>
+			<DESC>cookiptip10 description</DESC>
+		</COOKINGTIP>
+		<COOKINGTIP>
+			<TITLE>cookiptip11</TITLE>
+			<DESC>cookiptip11 description</DESC>
+		</COOKINGTIP>
+	</COOKINGTIPS>
+</EBOOK>

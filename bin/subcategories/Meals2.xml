@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>RecipeTitle4</TITLE>
+			<URL>http://192.168.2.51:8080/starxml/images/bgimage.png</URL>
+			<LINK>recipes/recipe1.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>RecipeTitle5</TITLE>
+			<URL>http://192.168.2.51:8080/starxml/images/bgimage.png</URL>
+			<LINK>recipes/recipe2.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>RecipeTitle6</TITLE>
+			<URL>http://192.168.2.51:8080/starxml/images/bgimage.png</URL>
+			<LINK>recipes/recipe2.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>

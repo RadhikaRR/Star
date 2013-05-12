@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>VEGETABLE BIRYANI</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/vegetablebiryani.png</URL>
+			<LINK>recipes/vegetablebiryani.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>DAL MAKHNI</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/dalmakhni.png</URL>
+			<LINK>recipes/dalmakhni.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>

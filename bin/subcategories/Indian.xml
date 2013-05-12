@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EBOOK>
+	<RECIPES>
+		<RECIPE>
+			<TITLE>POHA</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/poha.png</URL>
+			<LINK>recipes/Poha.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>WADA-SAMBAR</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/vadasambar.png</URL>
+			<LINK>recipes/wada-sambar.xml</LINK>
+		</RECIPE>
+		<RECIPE>
+			<TITLE>RASGULLA</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/rasgulla.png</URL>
+			<LINK>recipes/wada-sambar.xml</LINK>
+		</RECIPE><RECIPE>
+			<TITLE>CHICKEN TANDOORI</TITLE>
+			<URL>http://182.72.4.109:8080/starxml/images/tandoori.png</URL>
+			<LINK>recipes/tandoori.xml</LINK>
+		</RECIPE>
+	</RECIPES>
+</EBOOK>
